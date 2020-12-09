@@ -24,7 +24,6 @@
     "test:all": "ember try:each"
   },
   "dependencies": {
-    "ember-cache-primitive-polyfill": "^1.0.0",
     "ember-cli-babel": "^7.21.0",
     "ember-cli-htmlbars": "^5.3.1",
     "tracked-maps-and-sets": "^2.0.0"
